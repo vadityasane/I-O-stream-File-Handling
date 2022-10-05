@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664650817 source:e:\c++ files\reading a file(file handling)\main.cpp
+	<iostream>
+	<fstream>
+
